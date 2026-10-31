@@ -1,0 +1,68 @@
+topic,count,keywords,proposed,category,manual_override
+0,1416,"hard, confusing, hard navigate, easy, complicated, good bad",customer_support,app_bugs,True
+1,1613,"closed, closed account, account closed, suspended, deactivated account, account deactivated",account_restriction,account_restriction,False
+2,1705,"banned, account permanently, deactivated account, closed account, account reason, account closed",account_restriction,account_restriction,False
+3,1646,"scammers, scam, fraud, scammed, steal money, scammer",fraud_security,fraud_security,False
+4,892,"passport, photo id, selfie, verify id, id verification, identity verification",login_access,account_restriction,True
+5,1033,"new card, debit card, order card, credit card, lock card, card information",card,card,False
+6,816,"ads, new update, redesign, navigate, new layout, cluttered",app_bugs,app_bugs,False
+7,949,"stole money, scammers, steal money, scammed, thieves, took money",fraud_security,fraud_security,False
+8,599,"create account, log account, open account, set account, new account, creating account",account_restriction,login_access,True
+9,662,"compatible device, compatible phone, new phone, phone compatible, android, phone update",app_bugs,app_bugs,False
+10,815,"send money, money money, money hold, request money, money sent, money send",transfers,transfers,False
+11,1592,"bank account, transfer money, transfers, money bank, direct deposit, money account",transfers,transfers,False
+12,397,"crypto, bitcoin, wallet, cryptocurrency, bought bitcoin, trading",card,features,True
+13,505,"order card, new card, card card, card let, received card, ordered card",card,card,False
+14,542,"customer service, worst customer, horrible customer, service worst, worst service, terrible customer",customer_support,customer_support,False
+15,349,"nigeria, pakistan, countries, available, africa, ghana",features,features,False
+16,638,"create account, open account, access account, sign account, log account, account number",login_access,login_access,False
+17,465,"fees high, cost, hidden fees, transfer fee, transfer fees, charge fees",fees,fees,False
+18,472,"chat, chat bot, bots, chatbot, service ai, real person",customer_support,customer_support,False
+19,909,"send money, payment, add money, receive money, request money, trying pay",app_bugs,transfers,True
+20,320,"games, winnings, money games, play games, playing games, google play",transfers,transfers,False
+21,430,"let log, login screen, log browser, unable login, try log, error message",app_bugs,login_access,True
+22,297,"let log, login screen, log login, trying log, log anymore, let login",login_access,login_access,False
+23,181,"green, dark mode, theme, bright, color, green screen",app_bugs,app_bugs,False
+24,249,"notifications, spam, push notifications, spam notifications, disable, emails",customer_support,app_bugs,True
+25,208,"change password, forgot password, reset password, password change, changed password, email password",login_access,login_access,False
+26,310,"update open, updated open, open update, update keeps, asking update, open keeps",app_bugs,app_bugs,False
+27,174,"add note, emoji, box, typing, note sending, note payment",app_bugs,app_bugs,False
+28,250,"change password, reset password, forgot password, password wrong, changed password, password changed",login_access,login_access,False
+29,581,"debit card, card locked, card account, bank card, new card, debit cards",card,card,False
+30,304,"change phone, mobile number, code phone, number phone, change number, old phone",login_access,login_access,False
+31,135,"grapheneos, android, secure, security reasons, privacy, blocking",app_bugs,app_bugs,False
+32,210,"hacked, account hacked, getting hacked, hacking, hacked account, hack account",fraud_security,fraud_security,False
+33,602,"worst money, worst banking, worst payment, worst bank, banking, money worst",card,other,True
+34,199,"public, personal information, privacy, private information, shared, google account",service_disruption,fraud_security,True
+35,289,"deposit check, check cashing, check feature, check deposit, says bug, invoices",transfers,transfers,False
+36,515,"hate, sucks, bad, garbage, horrible horrible, kyc",app_bugs,other,True
+37,146,"venmo instead, toilet, zelle better, fraudulent transaction, payment credit, better options",service_disruption,other,True
+38,632,"difficult, complicated, love, problems, easier, web",app_bugs,app_bugs,False
+39,155,"open open, does open, open does, open keeps, update open, keeps opening",app_bugs,app_bugs,False
+40,168,"banned reason, blocked reason, permanently banned, ban reason, reason let, stroke",service_disruption,account_restriction,True
+41,144,"zip code, update address, change address, address does, address let, new address",customer_support,account_restriction,True
+42,460,"let download, send code, working phone, tablet, android, work let",app_bugs,app_bugs,False
+43,215,"update sucks, work update, update bad, let update, update open, need update",app_bugs,app_bugs,False
+44,205,"sign log, trying sign, signup, sign process, unable sign, sign let",customer_support,login_access,True
+45,177,"install, download download, bootloader, unlocked bootloader, download phone, download let",app_bugs,app_bugs,False
+46,258,"opens, open phone, open anymore, keeps opening, trying open, opening phone",app_bugs,app_bugs,False
+47,102,"gb, storage, size, data cache, memory, bloat",app_bugs,app_bugs,False
+48,132,"screenshots, screenshot, screen shot, screen shots, screen, receipts",app_bugs,app_bugs,False
+49,324,"keeps crashing, cleared cache, restarted, restarted phone, android, uninstalled reinstalled",app_bugs,app_bugs,False
+50,106,"pin, forgot pin, change pin, pin code, pin number, enter pin",login_access,login_access,False
+51,560,"transfer money, transfer bank, money account, withdraw money, direct deposit, deposit money",transfers,transfers,False
+52,134,"worst, worst world, horrible company, user experience, service worst, worst company",app_bugs,other,True
+53,199,"slow, slower, forever load, extremely slow, faster, delays",app_bugs,app_bugs,False
+54,360,"green status, credit, loans, borrow limit, borrow feature, debt",fees,features,True
+55,97,"package, track, package tracking, packages, link email, parcel",app_bugs,app_bugs,False
+56,914,"refund, charged, refunded, denied, case, buyer",transfers,disputes_refunds,True
+57,221,"free trial, premium plan, downgrade, discount, cancellation, free premium",fees,fees,False
+58,144,"link bank, bank account, linking bank, account link, link debit, south africa",card,transfers,True
+59,103,"stocks, stock, invest, trading, shares, buy sell",features,features,False
+60,121,"ads, pop ads, advertisements, ads offers, pop ups, false advertisement",customer_support,app_bugs,True
+61,77,"battery, background, sleep, force stop, drained, screen time",app_bugs,app_bugs,False
+62,156,"verification code, verification process, send verification, sending verification, sms verification, stuck verification",login_access,login_access,False
+63,73,"hi, ha, unusual activity, indian, bar, bank add",service_disruption,other,True
+64,267,"old phone, change phone, new phone, number account, number changed, sms",login_access,login_access,False
+65,95,"rating star, zero stars, rated, groceries, reviews, rate stars",customer_support,other,True
+66,95,"passcode, passkey, pass code, email confirm, identity card, biometric",login_access,login_access,False

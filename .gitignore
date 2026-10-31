@@ -1,0 +1,21 @@
+# Review texts are not redistributed; regenerate them with src/collect_reviews.py
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Fitted topic models (derived from review texts)
+models/
+
+# Topic review sheets contain example review texts
+reports/topics_*.csv

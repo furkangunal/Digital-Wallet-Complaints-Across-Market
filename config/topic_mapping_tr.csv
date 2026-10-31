@@ -1,0 +1,30 @@
+topic,count,keywords,proposed,category,manual_override
+0,337,"hata, hata veriyor, veriyor, düzeltin, insanları mağdur, hata veriyo",service_disruption,app_bugs,True
+1,317,"hesabım, kapatıldı, kapattılar, hesabınız, mail, kapandı",account_restriction,account_restriction,False
+2,150,"nfc özelliği, telefonumda, telefonumda nfc, telefon, nfc ödeme, doğrulaması",login_access,account_restriction,True
+3,195,"kartım, kartımı, kartın, kartıma, kart aldım, card",card,card,False
+4,253,"paramızı, parasını, parasına, bahis, paramız, yalan",fraud_security,service_disruption,True
+5,158,"hata oluştu, açılmıyor, sürekli hata, yükledim, vpn, giriş yapamıyorum",app_bugs,app_bugs,False
+6,119,"şifremi, şifre, şifreyi, giriş yapamıyorum, hesabıma giriş, kalıyorum",login_access,login_access,False
+7,111,"keşke, kapandı, bitti, güzel uygulamaydı, yıllardır kullandığım, faaliyet izni",service_disruption,service_disruption,False
+8,171,"banka, hesabımdan, transfer, hesabıma para, paramı alamıyorum, hesabımda",transfers,transfers,False
+9,120,"numaramı, telefon, hesabıma giremiyorum, hesabıma, telefondan, yükledim",login_access,login_access,False
+10,82,"yıldız verdim, yıldız veriyorum, görünsün yıldız, veriyorum, çıksın yıldız, gözüksün yıldız",service_disruption,other,True
+11,65,"telefonum, telefon, telefona, çalışmıyor, mobil, play store",app_bugs,app_bugs,False
+12,82,"yüz, kimlik doğrulama, kimlikte, kartımda, yaş, yaşındayım",login_access,account_restriction,True
+13,51,"öğrenci, içeride param, yazıklar, çözüm bulun, para transferi, yüklemeyin",service_disruption,service_disruption,False
+14,69,"hesabıma giremiyorum, giriş yapamıyorum, hesabıma giriş, hesabıma, hesaba giriş, yapamıyorum yardımcı",login_access,login_access,False
+15,105,"para çekemiyorum, transferi, paramı çekemiyorum, param kaldı, paramı, harcayamıyorum",transfers,transfers,False
+16,55,"yaşındayım, yaşından, yaş altı, veli, onayı istiyor, yaşından küçük",features,features,False
+17,64,"doğrulamaya çalışıyorum, hesabımı doğrulamaya, hesap doğrulama, çalışıyorum, hesabımı doğrulamak, onaylamaya",account_restriction,account_restriction,False
+18,62,"cashback, youtube, tercih, spotify, online alışveriş, online",fees,features,True
+19,111,"kredi kartı, kartından, kredi kartından, para yatırma, banka, transfer",card,transfers,True
+20,77,"param kaldı, param içinde, kaldı çekemiyorum, param içeride, paramı, yapamıyorum para",transfers,service_disruption,True
+21,140,"uygulamaydı, güzel uygulamaydı, yatırım, tavsiye, yazık, tavsiye etmiyorum",service_disruption,service_disruption,False
+22,49,"telefonda nfc, telefonda, cihazım, telefonumda nfc, telefonumda, yeni telefon",login_access,account_restriction,True
+23,30,"kimlik bilgilerimi, bilgilerimi, kimlik, kabul etmiyorum, kayıt, satın",account_restriction,fraud_security,True
+24,30,"paramı geri, geri istiyorum, geri verin, paramı, mahkemeye, para kaldı",transfers,service_disruption,True
+25,39,"hesabım inceleme, aydır hesabım, hesabimdaki, kapalı, hesabım, kaç aydır",account_restriction,account_restriction,False
+26,59,"aydır, paramızı, kaç aydır, paramı kullanamıyorum, sıkıntılar, mağdur ediyorsunuz",transfers,account_restriction,True
+27,51,"aydır, bekliyoruz, bilgilendirme, haftadır, bakım çalışması, açılmadı",service_disruption,service_disruption,False
+28,35,"altın, param kaldı, paramı, geri istiyorum, paramı geri, yapabiliyorum",fees,service_disruption,True
